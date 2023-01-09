@@ -5,19 +5,6 @@ A company maintains the data of its customers in the CUSTOMER  table. Write a qu
 
 ## 
 
-#### Schema
-
-```http
-  SUPERHERO table
-```
-
-| Name | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `ID` | `Integer` |A superhero ID in the inclusive range [1, 1000]. This field is the primary key.|
-| `NAMES` | `String` | A superhero name. This field contains between 1 and 100 characters (inclusive).|
-| `LATITUDE` | `Float` |The latitude of the superhero.|
-| `LONGITUDE` | `Float` | The longitude of the superhero.|
-
 #### Output Format
 
 The result should print the IDs  and the NAMEs of those customers who are from the USA and whose credit limit is greater than 100000, in ascending ID order
