@@ -55,7 +55,7 @@ The result should print the IDs  and the NAMEs of those customers who are from t
 
 #### Explanation:
 
-Description of some of the customers is given below:\
+Description of some of the customers is given below:
 - Frances White is from the USA, and his credit limit is 200350, which is greater than 100000.
 - Carolyn Bradley is from the UK, and her credit limit is 15354 which is less than 100000. 
 - Paula Fuller  is from the USA, and her credit limit is 14789  which is less than 100000.
