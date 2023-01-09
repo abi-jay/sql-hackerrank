@@ -59,7 +59,12 @@ For Batman, latitude = 50.23 and longitude = 85.45. So, neither is less than 50.
 For Thor, latitude = 45.34 and longitude = 30.89. So, both are less than 50.\
 For Deadpool, latitude = 25.12 and longitude = 69.21. So, the latitude is less than 50 but the longitude is greater than 50.\
 The remaining records are analyzed similarly.\
-Thor, Hulk, and Doctor Strange have latitudes and longitudes less than 50 so their IDS are printed.\
+Thor, Hulk, and Doctor Strange have latitudes and longitudes less than 50 so their IDS are printed.
+
+
+## Authors
+
+- [@abijay](https://github.com/abi-jay)
 
 
 
