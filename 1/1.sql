@@ -1,0 +1,1 @@
+SELECT max(marks), min(marks) from marks;
