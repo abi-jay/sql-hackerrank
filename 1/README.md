@@ -32,9 +32,11 @@ There is a database with the exam scores of every student. Write a query to prin
 
 #### Explanation:
 
-Max marks = 70
-
+Max marks = 70\
 Min marks = 30
 
+## Authors
+
+- [@abijay](https://github.com/abi-jay)
 
 
