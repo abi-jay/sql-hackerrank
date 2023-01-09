@@ -4,7 +4,18 @@
 A company maintains the data of its customers in the CUSTOMER  table. Write a query to print the IDs and the NAMEs of the customers who are from the USA and whose credit limit is greater than 100000, ordered by increasing ID number.
 
 ## 
+#### Schema
 
+```http
+  CUSTOMERS table
+```
+
+| Name | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `ID` | `Integer` |A customer ID in the inclusive range [1, 1000]. This is the primary key.|
+| `NAME` | `String` | A customer's name. This field contains between 1 and 100 characters (inclusive).|
+| `COUNTRY` | `String` | The country of the customer.|
+| `CREDITS` | `Integer` | The credit limit of the customer.|
 #### Output Format
 
 The result should print the IDs  and the NAMEs of those customers who are from the USA and whose credit limit is greater than 100000, in ascending ID order
