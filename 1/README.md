@@ -28,7 +28,8 @@ There is a database with the exam scores of every student. Write a query to prin
 
 #### Sample Output
 
-70  30
+70\
+30
 
 #### Explanation:
 
