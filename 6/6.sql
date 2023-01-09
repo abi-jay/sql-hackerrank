@@ -1,0 +1,4 @@
+SELECT  ID,NAME
+FROM    CUSTOMER
+ORDER BY    NAME DESC,
+            ID;
